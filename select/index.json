@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Heal Me(Live at SUPERNOVA KAWASAKI,2025/01/11)",
+  "base_artist": "*Luna",
+  "createdAt": "2026-02-25T10:26:45.646552Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heal Me (picco Remix)",
+      "artist": "*Luna feat. しほ",
+      "has_synced": false,
+      "path": "select/pl_01_Heal_Me_(picco_Remix)_Luna_feat._しほ.txt"
+    }
+  ]
+}
